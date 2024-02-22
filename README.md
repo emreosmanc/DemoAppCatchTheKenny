@@ -16,4 +16,4 @@ This is a game developed for the Android platform. The objective of the game is 
 
 | Game | Restart  | Finish  |
 | ------------ | ------------ | ------------ |
-| ![CK4](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/b0987169-2915-415b-9593-e95e702f20b1)  |   |   |
+| ![CK4](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/ce8ff365-67c7-44d5-a1d7-cae0e97f607d)  |   |   |
